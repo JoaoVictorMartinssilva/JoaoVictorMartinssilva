@@ -3,7 +3,7 @@
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas - FIAP
 
-- 📫 Como entrar em contato comigo: joaovictorjesusjv7@gmail.com
+- 📫 Como entrar em contato comigo: joaovictormartinsdev@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
