@@ -1,7 +1,7 @@
 <h1 align="center">Eai, eu sou o Joao Victor 🙋‍♂️</h1>
 
 
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas - FIAP
+- 💻 Formado em Análise e Desenvolvimento de Sistemas - FIAP
 
 - 📫 Como entrar em contato comigo: joaovictormartinsdev@gmail.com
 
